@@ -1,0 +1,8 @@
+# Pinned versions for reproducibility. If `pip install -r requirements.txt`
+# fails on any line, replace `==X.Y.Z` with `>=X.Y.Z` for that package.
+streamlit==1.40.2
+google-genai==0.3.0
+sentence-transformers==3.3.1
+chromadb==0.5.23
+pypdf==5.1.0
+python-dotenv==1.0.1

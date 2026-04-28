@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# PDFs (don't accidentally commit user documents)
+*.pdf
+
+# Streamlit
+.streamlit/
